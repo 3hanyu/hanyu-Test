@@ -14,6 +14,8 @@ public void test() {
          *
          * 我们一般都是使用第二种方式
          * */
+        
+        // 修改对应的数据库连接名，用户名，密码即可
 
         //1.
         //DriverManager.registerDriver(new com.mysql.jdbc.Driver());
